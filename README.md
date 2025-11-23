@@ -1,9 +1,8 @@
-<img src="https://github.com/opa334/Dopamine/assets/52459150/ed04dd3e-d879-456d-9aa3-d4ed44819c7e" width="64" />
+<img src="https://github.com/MoonArcLabs/Sh4rpEdge/blob/2.x/Application/Dopamine/Assets.xcassets/AppIcon.appiconset/Smk.png" width="64" />
 
-# Dopamine
+# Sh4rpEdge
 
 A rootless semi-untethered jailbreak for iOS 15.0 - 16.5.1 (arm64e) and iOS 15.0 - 16.6.1 (arm64). More details will follow here soon.
 
 Please note that all issues related to version support will be deleted without response.
 
-Official website / download: https://ellekit.space/dopamine/
